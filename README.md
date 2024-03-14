@@ -9,7 +9,7 @@
 
 MenuMap caters to a diverse user base, from students👩🏻‍🎓 on a budget to adventurous eaters looking for a great recommendation. The app will take inputs🔤 from the user such as desired price range, type of cuisine and dietary restrictions to filter nearby restaurants and display the choices on an interactive map📍.
 
-**Link to website**: https://menumap.netlify.app
+**Link to website not available (ran out of credits)**
 
 ## Contents
 1. [Getting Started](#getting-started)
